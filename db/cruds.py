@@ -24,3 +24,7 @@ def get_acceptance(
         )
         .first()
     )
+
+
+def create_user(db: Session):
+    pass
